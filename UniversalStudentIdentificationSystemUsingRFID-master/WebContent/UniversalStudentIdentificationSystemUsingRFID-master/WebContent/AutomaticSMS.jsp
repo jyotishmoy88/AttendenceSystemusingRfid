@@ -4,7 +4,7 @@
 <%@ page import="java.sql.*" %> 
 <%@ page import="java.io.*" %> 
 <%-- <%@ page import="university.*"%>  --%>
-<%@ page import="mail.*"%> 
+<%-- <%@ page import="mail.*"%>  --%>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <title>JoNasys College Of Engineering</title>
